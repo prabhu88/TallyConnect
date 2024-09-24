@@ -1,0 +1,3 @@
+[#Menu: Gateway of Tally]
+    Add: Item: "Open Node Js Application": Browse URL : "https://github.com/prabhu88" 
+;; Replace GIT url with This application Build TallyConnect.exe
